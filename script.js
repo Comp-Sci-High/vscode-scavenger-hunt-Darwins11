@@ -1,4 +1,4 @@
-console.log("I should go at the end")
+console.log("I should leave at the end")
 
 // Compliments about "Your Name"
 let compliments = [
